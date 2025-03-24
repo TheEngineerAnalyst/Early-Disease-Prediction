@@ -11,7 +11,8 @@ The rising prevalence of chronic diseases such as obesity, diabetes, and cardiov
 
 The project consists of two main files:
 
-M1: A preliminary analysis and initial approach, exploring the data itself, dimensionality reduction approaches, and clustering algorithms.
-M2: The final model and results, incorporating insights from M1 to achieve more robust results.
+* M1: A preliminary analysis and initial approach, exploring the data itself, dimensionality reduction approaches, and clustering algorithms.
+
+* M2: The final model and results, incorporating insights from M1 to achieve more robust results.
 
 Additionally, we have included a file from a team member who investigated an alternative approach that ultimately proved unsuccessful, providing valuable insights into method selection and model development.
